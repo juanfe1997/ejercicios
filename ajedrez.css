@@ -1,0 +1,119 @@
+.contenedor{
+	display: flex;
+    flex-direction: row;
+    padding: 30px;
+    justify-content:space-around;
+    align-content: space-between;
+    flex-wrap: wrap;
+    height: 100px;
+}
+.item{
+	background-color: #D0AD6C;
+	width: 30px;
+	padding: 10px;
+	height: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex: 50px 50px;
+
+}
+.item:nth-child(1){
+	background-color: #D0AD6C;
+}
+.item:nth-child(9){
+	background-color: #B57009;
+}
+.item:nth-child(11){
+	background-color: #B57009;
+}
+.item:nth-child(2){
+	background-color: #B57009;
+}
+.item:nth-child(4){
+	background-color: #B57009;
+}
+.item:nth-child(6){
+	background-color: #B57009;
+}
+.item:nth-child(8){
+	background-color: #B57009;
+}
+.item:nth-child(13){
+	background-color: #B57009;
+}
+.item:nth-child(15){
+	background-color: #B57009;
+}
+.item:nth-child(18){
+	background-color: #B57009;
+}
+.item:nth-child(20){
+	background-color: #B57009;
+}
+.item:nth-child(22){
+	background-color: #B57009;
+}
+.item:nth-child(24){
+	background-color: #B57009;
+}
+.item:nth-child(25){
+	background-color: #B57009;
+}
+.item:nth-child(27){
+	background-color: #B57009;
+}
+.item:nth-child(29){
+	background-color: #B57009;
+}
+.item:nth-child(31){
+	background-color: #B57009;
+}
+.item:nth-child(34){
+	background-color: #B57009;
+}
+.item:nth-child(36){
+	background-color: #B57009;
+}
+.item:nth-child(38){
+	background-color: #B57009;
+}
+.item:nth-child(40){
+	background-color: #B57009;
+}
+.item:nth-child(41){
+	background-color: #B57009;
+}
+.item:nth-child(43){
+	background-color: #B57009;
+}
+.item:nth-child(45){
+	background-color: #B57009;
+}
+.item:nth-child(47){
+	background-color: #B57009;
+}
+.item:nth-child(50){
+	background-color: #B57009;
+}
+.item:nth-child(52){
+	background-color: #B57009;
+}
+.item:nth-child(54){
+	background-color: #B57009;
+}
+.item:nth-child(56){
+	background-color: #B57009;
+}
+.item:nth-child(57){
+	background-color: #B57009;
+}
+.item:nth-child(59){
+	background-color: #B57009;
+}
+.item:nth-child(61){
+	background-color: #B57009;
+}
+.item:nth-child(63){
+	background-color: #B57009;
+}
